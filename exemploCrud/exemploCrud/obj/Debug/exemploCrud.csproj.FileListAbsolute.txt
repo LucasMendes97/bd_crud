@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\bin\Debug\exemploCrud.exe.config
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\bin\Debug\exemploCrud.exe
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\bin\Debug\exemploCrud.pdb
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\obj\Debug\exemploCrud.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\obj\Debug\exemploCrud.Form1.resources
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\obj\Debug\exemploCrud.Properties.Resources.resources
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\obj\Debug\exemploCrud.csproj.GenerateResource.Cache
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\obj\Debug\exemploCrud.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\obj\Debug\exemploCrud.exe
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\obj\Debug\exemploCrud.pdb
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\obj\Debug\exemploCrud.csproj.CopyComplete
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\bin\Debug\pt-BR\exemploCrud.resources.dll
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\obj\Debug\exemploCrud.Form1.pt-BR.resources
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\obj\Debug\pt-BR\exemploCrud.resources.dll

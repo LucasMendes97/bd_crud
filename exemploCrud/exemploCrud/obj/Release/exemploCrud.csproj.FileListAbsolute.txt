@@ -1,0 +1,11 @@
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\bin\Release\exemploCrud.exe.config
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\bin\Release\exemploCrud.exe
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\bin\Release\exemploCrud.pdb
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\bin\Release\MySql.Data.dll
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\obj\Release\exemploCrud.Form1.resources
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\obj\Release\exemploCrud.Properties.Resources.resources
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\obj\Release\exemploCrud.csproj.GenerateResource.Cache
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\obj\Release\exemploCrud.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\obj\Release\exemploCrud.exe
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\obj\Release\exemploCrud.pdb
+C:\Users\Lucas\source\repos\exemploCrud\exemploCrud\obj\Release\exemploCrud.csprojResolveAssemblyReference.cache
