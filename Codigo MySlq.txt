@@ -1,8 +1,0 @@
-create table aulas(
-Indice int auto_increment,
-Aula varchar(20) not null,
-Ultima_Aula int not null,
-Semana varchar(10) not null,
-Link varchar(200)not null,
-primary key(Indice)
-);
